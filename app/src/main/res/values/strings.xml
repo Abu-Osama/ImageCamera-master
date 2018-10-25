@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageCamera</string>
+    <string name="uploadImages">Set your image</string>
+    <string name="action_pic">view list</string>
+</resources>

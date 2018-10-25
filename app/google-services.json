@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36543153077",
+    "firebase_url": "https://garmentproject-ca13e.firebaseio.com",
+    "project_id": "garmentproject-ca13e",
+    "storage_bucket": "garmentproject-ca13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36543153077:android:f90d6f3a08da3769",
+        "android_client_info": {
+          "package_name": "com.abuosama.imagecamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36543153077-9i1orgs8cj624jrj05ae8so4e3ji36co.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abuosama.imagecamera",
+            "certificate_hash": "ff3d8452522d5cfa152a84a5972a9e74b6d6a1e2"
+          }
+        },
+        {
+          "client_id": "36543153077-7ak0sst3363jrrvn28lf5r33189le1cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjuQObCXC0gxC1hapyI9wyOHYJxSSGZQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36543153077-7ak0sst3363jrrvn28lf5r33189le1cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
